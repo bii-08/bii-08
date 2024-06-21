@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tam
 
-## About Me
+## 🙋🏻‍♀️ About Me
 I'm a freelance iOS Developer passionate about creating innovative apps with user-friendly interfaces. <br />
 I love exploring new technologies in Swift and SwiftUI to build exceptional iOS apps. <br />
 Check out my projects and let's create something amazing together!
