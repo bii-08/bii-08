@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Tam
 
-<!--
-**bii-08/bii-08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a freelance iOS Developer passionate about creating innovative apps with user-friendly interfaces. <br />
+I love exploring new technologies in Swift and SwiftUI to build exceptional iOS apps. <br />
+Check out my projects and let's create something amazing together!
 
-Here are some ideas to get you started:
+## 📁 [My Portfolio]()
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤝 Contact Me
+Feel free to reach out if you have any opportunities or collaborations.
+- Email: luuthithanhtam08@gmail.com
+- LinkedIn: [Tam Luu](https://www.linkedin.com/in/tam-luu-818187173/)
